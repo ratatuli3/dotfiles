@@ -5,3 +5,4 @@ neofetch
 rxvt-unicode
 rofi
 bumblebee-status (i3wm)
+feh
