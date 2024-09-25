@@ -15,8 +15,8 @@ URxvt.cursorBlink : true
 !!  Fonts  !!
 !!!!!!!!!!!!!
 
-URxvt.font: xft:Hack:size=10
-URxvt.boldFont: xft:Hack:size=10:style=Medium
+URxvt.font: xft:Agave Nerd Font:size=12:style=Regular
+URxvt.boldFont: xft:Agave Nerd Font:size=10:style=Bold
 URxvt.italicFont: xft:Hack:size=10:style=Italic
 URxvt.boldItalicFont: xft:Hack:size=10:style=Medium Italic
 
