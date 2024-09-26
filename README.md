@@ -17,7 +17,7 @@ fc-cache
 ```
 
 ## Install Neovim
-The last line contains my own repo in it which you can copy,but I reccomend you setup your own on [Kickstart Neovim](https://github.com/nvim-lua/kickstart.nvim).
+The last line contains my own repo in it which you can copy, but I reccomend you setup your own config on [Kickstart Neovim](https://github.com/nvim-lua/kickstart.nvim).
 
 ```
 mkdir ~/.config/nvim
