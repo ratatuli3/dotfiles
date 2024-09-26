@@ -1,8 +1,6 @@
 Install:
 
-- i3wm <br/>
-- neofetch <br/>
-- rxvt-unicode <br/>
-- rofi <br/>
+```
+sudo apt install i3 neofetch rxvt-unicode rofi feh nala ranger
+``` 
 - bumblebee-status (i3wm) <br/>
-- feh <br/>
