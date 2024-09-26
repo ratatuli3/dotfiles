@@ -1,8 +1,8 @@
 Install:
 
-i3wm
-neofetch
-rxvt-unicode
-rofi
-bumblebee-status (i3wm)
-feh
+- i3wm <br/>
+- neofetch <br/>
+- rxvt-unicode <br/>
+- rofi <br/>
+- bumblebee-status (i3wm) <br/>
+- feh <br/>
