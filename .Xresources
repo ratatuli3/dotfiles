@@ -15,8 +15,8 @@ URxvt.cursorBlink : true
 !!  Fonts  !!
 !!!!!!!!!!!!!
 
-URxvt.font: xft:Agave Nerd Font:size=12:style=Regular
-URxvt.boldFont: xft:Agave Nerd Font:size=10:style=Bold
+URxvt.font: xft:Hack:size=10
+URxvt.boldFont: xft:Hack:size=10:style=Medium
 URxvt.italicFont: xft:Hack:size=10:style=Italic
 URxvt.boldItalicFont: xft:Hack:size=10:style=Medium Italic
 
@@ -29,3 +29,43 @@ URxvt*shading: 30
 
 URxvt*background: rgba:0000/0000/1111/ffff
 URxvt*foreground: white
+
+! Dracula Xresources palette
+!! COLORS
+
+! special
+XTerm*foreground: #bbc5ff
+XTerm*background: #292d3e
+XTerm*cursorColor: #bbc5ff
+
+! black
+*.color0:       #101010
+*.color8:       #434758
+
+! red
+*.color1:       #f07178
+*.color9:       #ff8b92
+
+! green
+*.color2:       #c3e88d
+*.color10:      #ddffa7
+
+! yellow
+*.color3:       #ffcb6b
+*.color11:      #ffe585
+
+! blue
+*.color4:       #82aaff
+*.color12:      #9cc4ff
+
+! magenta
+*.color5:       #c792ea
+*.color13:      #e1acff
+
+! cyan
+*.color6:       #89ddff
+*.color14:      #a3f7ff
+
+! white
+*.color7:       #d0d0d0
+*.color15:      #ffffff
