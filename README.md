@@ -1,24 +1,24 @@
-*Install Essentials*
+## Install Essentials
 ```
 sudo apt install i3 neofetch rxvt-unicode rofi feh nala ranger gcc unzip git make
 ```
 
-*Install Bumblebee*
+## Install Bumblebee
 ```
 cd ~/.config/i3
 git clone git://github.com/tobi-wan-kenobi/bumblebee-status
 ```
 
-*Install NerdFonts Agave*
+## Install NerdFonts Agave
 ```
 curl -L -O https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Agave.zip
 sudo unzip Agave.zip -d /usr/share/fonts/truetype/Agave
 fc-cache
 ```
 
-*Install Neovim*
-The last line contains my own repo in it whcih you can copy I guess but if you want your own go to the repo below. 
-[https://github.com/nvim-lua/kickstart.nvim]
+## Install Neovim
+The last line contains my own repo in it which you can copy,but I reccomend you setup your own on [Kickstart Neovim](https://github.com/nvim-lua/kickstart.nvim).
+
 ```
 mkdir ~/.config/nvim
 curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim-linux64.tar.gz
