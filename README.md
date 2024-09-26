@@ -17,6 +17,8 @@ fc-cache
 ```
 
 *Install Neovim*
+The last line contains my own repo in it whcih you can copy I guess but if you want your own go to the repo below. 
+[https://github.com/nvim-lua/kickstart.nvim]
 ```
 mkdir ~/.config/nvim
 curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim-linux64.tar.gz
