@@ -1,6 +1,10 @@
-Install:
-
+*Install Essentials*
 ```
 sudo apt install i3 neofetch rxvt-unicode rofi feh nala ranger
-``` 
-- bumblebee-status (i3wm) <br/>
+```
+
+*Install Bumblebee*
+```
+cd ~/.config/i3
+git clone git://github.com/tobi-wan-kenobi/bumblebee-status
+```
