@@ -1,6 +1,6 @@
 ## Install Essentials
 ```
-sudo apt install i3 neofetch rxvt-unicode rofi feh nala ranger gcc unzip git make
+sudo apt install i3 neofetch rxvt-unicode rofi feh nala ranger gcc unzip git make zathura
 ```
 
 ## Install Bumblebee
