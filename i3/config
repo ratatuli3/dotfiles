@@ -156,13 +156,13 @@ bar {
 	status_command $HOME/.config/i3/bumblebee-status/bumblebee-status \
 		-m disk kernel datetime battery \
 		-p battery.showdevice="true" \
-		-t moonlight-powerline
+		-t nord-powerline
         colors {
-        background #000000
+        background #101010
         statusline #ffffff
         separator #666666
 			   #Border #BG     #Text
-        focused_workspace  #54235c #54235c #ffffff
+        focused_workspace  #ff8b92 #f07178 #ffffff
         active_workspace   #333333 #5f676a #ffffff
         inactive_workspace #333333 #222222 #888888
         urgent_workspace   #2f343a #900000 #ffffff
@@ -171,7 +171,7 @@ bar {
 }
 
 # class                 border  backgr. text    indicator child_border
-client.focused          #54235c #54235c #ffffff #2e9ef4   #54235c
+client.focused          #f07178 #f07178 #ffffff #f07178   #f07178
 client.focused_inactive #333333 #5f676a #ffffff #484e50   #5f676a
 client.unfocused        #333333 #222222 #888888 #292d2e   #222222
 client.urgent           #2f343a #900000 #ffffff #900000   #900000
