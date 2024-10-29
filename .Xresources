@@ -15,6 +15,13 @@ URxvt.cursorBlink : true
 !!  Fonts  !!
 !!!!!!!!!!!!!
 
+urxvt.perl-ext-common: default,tabbed,matcher,resize-font,-tabbed
+
+URxvt.keysym.C-minus:     resize-font:smaller
+URxvt.keysym.C-plus:      resize-font:bigger
+URxvt.keysym.C-equal:     resize-font:reset
+URxvt.keysym.C-question:  resize-font:show
+
 URxvt.font: xft:Agave Nerd Font:size=12:style=Regular
 URxvt.boldFont: xft:Agave Nerd Font:size=12:style=Bold
 URxvt.italicFont: xft:Agave Nerd Font:size=12:style=Italic
