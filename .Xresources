@@ -2,6 +2,9 @@
 !!  General Configs  !!
 !!!!!!!!!!!!!!!!!!!!!!!
 
+! Border Control
+URxvt*internalBorder: 12
+
 ! Enable scrolling through terminal
 URxvt*scrollWithBuffer: true
 
